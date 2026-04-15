@@ -1,4 +1,4 @@
-# 🌐 Custom DNS Server
+# Custom DNS Server 
 
 A fully custom DNS server built from scratch in **Java 26** with **Spring Boot 4.0.5** — no third-party DNS libraries used. Parses and constructs raw DNS protocol bytes per [RFC 1035](https://datatracker.ietf.org/doc/html/rfc1035).
 
